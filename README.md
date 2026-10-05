@@ -779,4 +779,4 @@ Project: Predicting Product Satisfaction and Improving Personalized Skincare Rec
 Ananthapadmanabhan
 sephora-skincare-recommendation
 ```
-
+Kaggle dataset - https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews
