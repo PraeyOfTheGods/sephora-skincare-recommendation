@@ -200,5 +200,6 @@ Possible future improvements include:
 - Ingredient-based recommendation
 - Interactive recommendation dashboard
 - More robust hybrid model evaluation
+
 Author
 Data Science Internship Project — Yuva Intern
